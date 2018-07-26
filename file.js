@@ -7,6 +7,6 @@ function innerScope(){
     
       return innerVariable;
   }
-}
-
-innerScope();
+  
+  outerFunction();
+  
