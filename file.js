@@ -8,4 +8,5 @@ function makeZoo() {
 }
 
 makeZoo();
-animal;
+console.log(animal);
+
