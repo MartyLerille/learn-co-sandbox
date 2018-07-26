@@ -1,4 +1,4 @@
-x=1;
+
 function outerFunction() {
   var innerVariable = "I'm sort of a secret.";
 
