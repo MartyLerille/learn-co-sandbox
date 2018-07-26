@@ -1,6 +1,5 @@
 function myFunction(){
-  y =2;
-
+  y = "hello";
 }
 
 console.log(y);
