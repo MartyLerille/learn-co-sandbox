@@ -8,4 +8,4 @@ function outerFunction() {
   }
 }
 
-innerScope();
+outerFunction();
