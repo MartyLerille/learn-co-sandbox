@@ -6,5 +6,5 @@ function myFunction() {
   console.log(y);
 }
 
-console.log(y);
+console.log(x);
 
