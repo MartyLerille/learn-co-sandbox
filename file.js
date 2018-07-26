@@ -9,4 +9,4 @@ function innerScope(){
   }
 }
 
-outerFunction();
+innerScope();
