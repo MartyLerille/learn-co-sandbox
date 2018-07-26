@@ -7,4 +7,4 @@ function myFunction() {
 }
 
 console.log(x);
-myFunction();
+
