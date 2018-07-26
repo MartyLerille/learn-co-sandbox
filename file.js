@@ -1,5 +1,5 @@
 function myFunction(){
- y = "hello";
+ var y = "hello";
  console.log(y);
 }
 
